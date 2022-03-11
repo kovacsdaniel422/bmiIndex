@@ -50,7 +50,7 @@ public class bmiIndex {
             kiadat = "károsan elhízott";
         }
         System.out.printf("Ön %d cm magas és %d kg tömegű, "
-                + "így BMI indexe %.2f. %s\n ", height, weight, bmi, kiadat);
+                + "így az ön BMI indexe %.2f. %s\n ", height, weight, bmi, kiadat);
 
     }
 }
