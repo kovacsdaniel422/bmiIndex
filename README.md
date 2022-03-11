@@ -1,2 +1,0 @@
-# bmiIndex
- bmiIndex feladat
